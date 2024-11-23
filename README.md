@@ -1,5 +1,5 @@
-# AI-and-Job-Displacement-Dataset
-Measuring attitudes towards AI's impact dataset
+#Measuring attitudes towards AI's impact dataset
+
 This dataset explores perceptions and attitudes toward AI's impact on the job market in Bangladesh. The data was collected through a survey conducted at Pabna University of Science and Technology (PUST). It includes demographic attributes, familiarity with AI, concerns about job displacement, awareness of opportunities, and readiness for skill development and adaptation.
 
 Attributes and Descriptions
